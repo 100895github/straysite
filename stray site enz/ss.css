@@ -1,0 +1,260 @@
+
+ @font-face {
+    font-family: orbitron;
+    src: url(Orbitron-VariableFont_wght.ttf);
+ }
+
+.hi {
+    background-image: url("maxresdefault.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.stray2 {
+    background-image: url("stray2.png");  
+    background-size: cover;
+    background-repeat: no-repeat; 
+  }
+
+  .straydev {
+    background-image: url("straydevv.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+.button {
+    position: absolute;
+    left: 40%;
+    width: 20%;
+    bottom: 20%;
+    background-color: #090a35;
+    color: white;
+    padding: 15px 32px;
+    opacity: 80%;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: orbitron;
+    
+  }
+
+
+  .button2 {
+    position: absolute;
+    left: 40%;
+    width: 20%;
+    bottom: 10%;
+    background-color: #090a35;
+    color: white;
+    padding: 15px 32px;
+    opacity: 80%;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: orbitron;
+    
+
+  
+  }
+  .button3 {
+    position: absolute;
+    left: 40%;
+    width: 20%;
+    bottom: 20%;
+    /*wat de neuk??? dit zou NIET moeten werken.*/
+    background-color: #090a35;
+    color: white;
+    padding: 15px 32px;
+    opacity: 80%;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: orbitron;
+    
+  }
+  
+  .button4 {
+    position: absolute;
+    left: 42.5%;
+    width: 15%;
+    bottom: 10%;
+    background-color: #090a35;
+    color: white;
+    padding: 10px 22px;
+    opacity: 80%;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: orbitron;
+    
+  }
+
+
+.info1 {
+  position: absolute;
+  left: 25%;
+  width: 70%;
+  bottom: 75%;
+  background-color: #020217;
+  color: white;
+  padding: 15px 32px;
+  opacity: 80%;
+  text-align: right;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: orbitron;
+  
+}
+
+.info2 {
+  position: absolute;
+  right: 25%;
+  width: 70%;
+  top: 30%;
+  background-color: #020217;
+  color: white;
+  padding: 15px 32px;
+  opacity: 80%;
+  text-align: left;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: orbitron;
+  
+}
+
+.info3 {
+  position: absolute;
+  left: 25%;
+  width: 70%;
+  top: 55%;
+  background-color: #020217;
+  color: white;
+  padding: 15px 32px;
+  opacity: 80%;
+  text-align: right;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: orbitron;
+  
+}
+.dev1 {
+  position: absolute;
+  right: 5%;
+  width: 30%;
+  bottom: 15%;
+  background-color: #020217;
+  color: white;
+  padding: 15px 32px;
+  opacity: 80%;
+  text-align: left;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: orbitron;
+}
+
+.dev2 {
+  position: absolute;
+  left: 5%;
+  width: 30%;
+  bottom: 15%;
+  background-color: #020217;
+  color: white;
+  padding: 15px 32px;
+  opacity: 80%;
+  text-align: LEFT;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: orbitron;
+}
+
+.b12 { 
+  position:absolute; 
+  top: 37%;
+  left: 45%;
+  width: 10%;
+  display: block;
+  
+} 
+
+.infoto1 { 
+  position:absolute; 
+  top: 55%;
+  left: 14%;
+  width: 10%;
+  display: block;
+}
+
+ 
+.infoto2 { 
+  position:absolute; 
+  top: 29%;
+  right: 14%;
+  width: 10%;
+  display: block;
+}
+ 
+.infoto3 { 
+  position:absolute; 
+  top: 10%;
+  left: 14%;
+  width: 10%;
+  display: block;
+}
+
+.fotobutton {
+  border: none;
+  background: none;
+}
+.fotobutton img {
+  position:absolute; 
+  top: 43%;
+  left: 45%;
+  width: 10%;
+  display: block;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.poes {
+  position: absolute;
+  width: 10%;
+}
+
+.devfoto1 {
+  position: absolute;
+  top: 40%;
+  left: 12%;
+  width: 20%;
+  border-radius: 15%;
+}
+
+.devfoto2 {
+  position: absolute;
+  width: 20%;
+  top: 40%;
+  right: 12%;
+  border-radius: 15%;
+}
+.devfoto3 {
+  position: absolute;
+  top: 10%;
+  width: 20%;
+  left: 41%;
+  border-radius: 15%;
+}
